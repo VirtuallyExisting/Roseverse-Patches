@@ -1,2 +1,2 @@
-# Roseverse-Patcher-3DS
-The patcher for the Nintendo 3DS version of Roseverse.
+# Roseverse-Patches
+This repository hosts the patches for Roseverse Patcher 3DS.
